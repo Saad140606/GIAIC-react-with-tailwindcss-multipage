@@ -8,32 +8,32 @@ const CarNews = () => {
   const newsData = [
     {
       id: 0,
-      img: "/src/assets/img/newsa.jpg",
+      img: "./src/assets/img/newsa.jpg",
       desc: "Toyota touts internal combustion engine potential, even in EV age",
     },
     {
       id: 1,
-      img: "/src/assets/img/newsb.jpg",
+      img: "./src/assets/img/newsb.jpg",
       desc: "BMW Group India clocks best-ever annual sales in 2023, leads luxury electric car segment",
     },
     {
       id: 2,
-      img: "/src/assets/img/newsc.jpg",
+      img: "./src/assets/img/newsc.jpg",
       desc: "MG Astor 2024 launched in India, price starts at Rs 9.98 lakh",
     },
     {
       id: 3,
-      img: "/src/assets/img/newsd.jpg",
+      img: "./src/assets/img/newsd.jpg",
       desc: "Kia Sonet facelift launched in India at Rs 7.99 lakh, Tata Nexon & Maruti Suzuki Brezza rival",
     },
     {
       id: 4,
-      img: "/src/assets/img/newse.jpg",
+      img: "./src/assets/img/newse.jpg",
       desc: "First Shift: New-vehicle inventory reaches 3-year high",
     },
     {
       id: 5,
-      img: "/src/assets/img/newsf.jpg",
+      img: "./src/assets/img/newsf.jpg",
       desc: "JLR India sales rise 74% in Q3 on robust demand for Range Rover, Range Rover Velar, Defender",
     },
   ];

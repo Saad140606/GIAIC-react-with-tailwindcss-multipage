@@ -8,37 +8,37 @@ const Featured = () => {
   const carsData = [
     {
       id: 0,
-      img: "/src/assets/img/cara.png",
+      img: "./src/assets/img/cara.png",
       name: "Cadillac Escalade",
       price: "22,440",
     },
     {
       id: 1,
-      img: "/src/assets/img/carb.png",
+      img: "./src/assets/img/carb.png",
       name: "BMW 3 Series",
       price: "54,890",
     },
     {
       id: 2,
-      img: "/src/assets/img/carc.png",
+      img: "./src/assets/img/carc.png",
       name: "Mercedes",
       price: "75,890",
     },
     {
       id: 3,
-      img: "/src/assets/img/card.png",
+      img: "./src/assets/img/card.png",
       name: "BMW 7 Series",
       price: "55,789",
     },
     {
       id: 4,
-      img: "/src/assets/img/care.png",
+      img: "./src/assets/img/care.png",
       name: "Mercedes-Benz",
       price: "95,776",
     },
     {
       id: 5,
-      img: "/src/assets/img/carf.png",
+      img: "./src/assets/img/carf.png",
       name: "Range Rover",
       price: "88,450",
     },
